@@ -1,0 +1,71 @@
+.menu1{
+    float:left;
+    list-style:none;
+    color:purple;
+    position:fixed;
+    background:lightyellow;
+    width:100%;
+    margin-top:0px;
+    top:0px;
+    z-index:10;
+    }
+    #app{
+        text-align: center;
+    }
+    #pic1{
+      display: inline-block;  
+    }
+    #title{
+        margin-top: 40px;
+    }
+    h1{
+    color: deeppink;
+    font-family: cursive;
+    text-align: center;
+    }
+    .links{
+    display:inline;
+    font-size:20px;
+    padding-left:35px;
+    padding-right:35px;
+    }
+    #princess{
+    text-align: center;
+    }
+    #snowwhite{
+        margin-top: 20px;
+        width:300px;
+        height:300px;
+    }
+    #belle{
+        margin-top: 20px;
+       width:300px;
+        height:300px; 
+    }
+    #cinderella{
+        margin-top: 20px;
+        width:300px;
+        height:300px;
+    }
+    #ariel{
+        margin-top: 20px;
+        width:300px;
+        height:300px;
+    }
+    #prince{
+       text-align: center;
+        display: inline;
+    }
+    #myCarousel{
+        background-color: lightpink;
+        margin-top: 20px;
+    }
+    p{
+        font-weight: bolder;
+        color: seagreen;
+        font-size: 40px;
+    }
+    h2{
+        text-align: center;
+    }
+    
